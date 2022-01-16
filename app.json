@@ -1,8 +1,8 @@
 {
-  "name": "SolidMusic Bot",
+  "name": "Enakeun Music",
   "description": "Open Source bot to stream media trough Telegram Voice Chat. Powered by PyTgCalls and Pyrogram",
-  "keywords": ["solidmusic", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
-  "repository": "https://github.com/DoellBarr/solidmusic",
+  "keywords": ["EnakeunMusic", "musicbot", "video-stream", "videochat", "voicechat", "telegram"],
+  "repository": "https://github.com/Kayzyu/EnakeunMusic",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -28,17 +28,17 @@
     "GROUP_LINK": {
       "description": "your group support link, can use private or public group, example https://t.me/solidprojects_chat",
       "required": false,
-      "value": "https://t.me/solidprojects_chat"
+      "value": "https://t.me/KayzuSupport"
     },
     "CHANNEL_LINK": {
       "description": "your channel support link, can use private or public channel, example https://t.me/solidprojects",
       "required": false,
-      "value": "https://t.me/solidprojects"
+      "value": "https://t.me/kayzuchannel"
     },
     "UPSTREAM_REPO": {
       "description": "fill it if you fork from original repo",
       "required": false,
-      "value": "https://github.com/DoellBarr/solidmusic"
+      "value": "https://github.com/Kayzyu/EnakeunMusic"
     },
     "AUTO_LEAVE": {
       "description": "fill it with delay time for leaving group, fill 0 if you do not want to use this feature",
