@@ -16,13 +16,6 @@ and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
     <a href="https://github.com/Kayzyu/EnakeunMusic"><img src="https://img.shields.io/github/stars/Kayzyu/EnakeunMusic?logo=github"></a>
 </div>
 
-<h3>Help Need </h3>
-<div>
-    Help me to translate this repo, click the localized button <br /> 
-    <br/>
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/solid-music"><img src="https://badges.crowdin.net/solid-music/localized.svg"></a>
-</div>
-
 <h3>Features</h3> 
 <ul>
     <li>Playlist features</li>
